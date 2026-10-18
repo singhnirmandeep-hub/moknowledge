@@ -1,0 +1,21 @@
+ANSWERS TO REQUIRED QUESTIONS
+
+1. What approach did you take to scraping and structuring the knowledge base data?
+When scraping and structuring the knowledge base data, I invested a heavy block of time to properly understand and analyze the requirements. During this period, I visualized and drew out the different web pages I needed and what information I should include on them. I understood that the scraper should run on the server side, as browsers block cross-site requests. From here, I directly utilized and communicated with Claude to help me scrape and structure the knowledge base data by providing detailed step-by-step explanations on every step. 
+
+2. What information beyond our current baseline did you choose to include, and why?
+I decided to add fields for FAQS with a link to their source page and trust and legal information. FAQS I felt were vital to implement, as they provide users with a deeper understanding of the company’s services, procedures, and background information. It also aids in helping them soak in information that is essential but might not have been populated within the moment when critiquing the website. As for trust and legal information, it gives users/customers more insight into the credibility of the company.
+
+3. How would your knowledge base design improve the outputs of MoSocial, MoMail, and MoBlogs specifically?
+For MoSocial, the call-to-action phrases would provide each post a consistent and clear initiative. For MoMail, the clean and organized structure lets emails speak to specific customers. For MoBlog, the FAQs provide real customer questions to answer, and each FAQ includes a source page, allowing writers to verify the origin of the claims.
+
+4. What would you improve or change about MoKnowledge if you had more time?
+With my current skillset, as I am not at all familiar with the code that was utilized in the project, I would invest my time into making the website more visually appealing and interactive. The more enticing and engaging that a website appears, the more likely users are to utilize the applications. 
+
+5. What was the most challenging part of this assignment?
+The most challenging part of this assignment without a doubt was actually trying to build and code the scraper tool while fulfilling all the requirements. I have no prior experience with full-stack development, as my education has only so far taught me how to code in Python and C++. The experience was undoubtedly enlightening and humbling, leaving me feeling uneasy and uncertain about how to proceed with the project. However, I decided to use my resources and had Claude guide me through the entire activity. I had Claude break each step down for me and then help me step by step. Although I directly copied and pasted the code provided by Claude, my goal was to understand the code and the design at a deeper level. I definitely learned how to better prompt AI tools to guide me in completing projects while soaking invaluable knowledge about how full-stack development actually works. I built the project ground-up with the assistance of Claude.
+
+
+
+
+
