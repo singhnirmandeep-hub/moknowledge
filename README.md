@@ -81,8 +81,6 @@ Hidden content is skipped. Scripts, styles, navigation, footers, elements with t
 
 ## Knowledge Base Schema
 
-The schema is defined in `src/types/knowledge.ts`. It covers the assignment's baseline categories:
-
 - **Company Foundation:** name, alternative names, description, website, industry, business model, role, year founded, legal entity type, employee count, addresses, service locations
 - **Positioning:** pitch, founding story
 - **Market & Customers:** buyers, customer needs, ideal persona, industry groupings, outlook, channels, funnels, CTAs, suppliers
@@ -91,7 +89,7 @@ The schema is defined in `src/types/knowledge.ts`. It covers the assignment's ba
 - **Key People:** name, title, gender, background
 - **Offerings:** name, category, description, features, pricing
 
-It also includes fields beyond the baseline, marked "Think Bigger" in the code: testimonials, certifications, awards, FAQs, topics, seasonal messages, community involvement, and legal information. The full design rationale is in `docs/schema.md`, which we'll write next.
+It also includes fields beyond the baseline, marked "Think Bigger" in the code: testimonials, certifications, awards, FAQs, topics, seasonal messages, community involvement, and legal information. 
 
 ## Assumptions and Limitations
 
